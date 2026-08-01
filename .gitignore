@@ -3,3 +3,7 @@ __pycache__/
 *.log
 *.xlsx
 *.csv
+!data/
+!data/**
+!data/processed/
+!data/processed/**
